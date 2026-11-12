@@ -1,14 +1,16 @@
-# Live Captions
+# LiveQaptions
 
 Phụ đề trực tiếp và dịch realtime cho Windows. Ứng dụng nghe âm thanh từ **loa** (cuộc họp, video, người khác nói) và **micro** (giọng của bạn), hiện phụ đề ở một cửa sổ nổi, bản dịch ở cửa sổ bên cạnh, và lưu toàn bộ nội dung thành file song ngữ.
 
 Việc nhận dạng giọng nói chạy ngay trên máy bạn — âm thanh không được gửi đi đâu. Chỉ phần chữ cần dịch hoặc tóm tắt mới được gửi tới dịch vụ bạn chọn.
 
+> Trước bản 0.4.0 ứng dụng có tên *Live Captions*. Tên được đổi để không trùng với tính năng *Live captions* có sẵn của Windows 11. Nếu bạn đang dùng bản cũ, chỉ cần bấm **Cập nhật**: cài đặt, mô hình và lối tắt được chuyển theo.
+
 ## Cài đặt
 
-1. Tải file `LiveCaptions-…-win64.zip` mới nhất tại trang [Releases](https://github.com/QuynhND/live-caption/releases/latest).
-2. Giải nén vào một thư mục bất kỳ (ví dụ `D:\LiveCaptions`; đừng đặt trong `Program Files`).
-3. Chạy `LiveCaptions.exe`. Nếu Windows hiện cảnh báo *Windows protected your PC*, bấm **More info → Run anyway** (ứng dụng chưa được ký số).
+1. Tải file `LiveQaptions-…-win64.zip` mới nhất tại trang [Releases](https://github.com/QuynhND/live-caption/releases/latest).
+2. Giải nén vào một thư mục bất kỳ (ví dụ `D:\LiveQaptions`; đừng đặt trong `Program Files`).
+3. Chạy `LiveQaptions.exe`. Nếu Windows hiện cảnh báo *Windows protected your PC*, bấm **More info → Run anyway** (ứng dụng chưa được ký số).
 
 Lần chạy đầu tiên ứng dụng tự tải mô hình nhận dạng giọng nói (0,6–1,6 GB), chờ tới khi dòng trạng thái báo **Sẵn sàng**.
 
